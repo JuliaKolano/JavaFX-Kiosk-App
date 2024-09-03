@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Feb 06 13:53:37 GMT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0186-2700-ebed-00000761e1a0 
+on database directory /Users/julia/Documents/Year2/Semester1/Object Oriented Development and Testing/Assessment/Assessment Code/catshop.db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@251a69d7 
+Loaded from file:/Users/julia/Documents/Year2/Semester1/Object%20Oriented%20Development%20and%20Testing/Assessment/Assessment%20Code/lib/db-derby-10.14.2.0-lib/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=19+36-2238
+user.dir=/Users/julia/Documents/Year2/Semester1/Object Oriented Development and Testing/Assessment/Assessment Code
+os.name=Mac OS X
+os.arch=x86_64
+os.version=13.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
